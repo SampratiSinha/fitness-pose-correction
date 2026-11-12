@@ -1,0 +1,47 @@
+{
+  "test_dir": "C:\\Users\\sampr\\OneDrive\\Desktop\\Virtual Internship\\HPE_Project\\data",
+  "threshold": 0.7,
+  "n_images": 29,
+  "overall_accuracy": 1.0,
+  "mean_score_correct": 0.998,
+  "mean_score_incorrect": null,
+  "confusion": {
+    "incorrect_caught": 0,
+    "incorrect_missed": 0,
+    "correct_flagged_wrongly": 0,
+    "correct_passed": 29
+  },
+  "per_exercise": {
+    "bicep_curl": {
+      "n": 5,
+      "accuracy": 1.0,
+      "mean_correct": 1.0,
+      "mean_incorrect": NaN
+    },
+    "plank": {
+      "n": 6,
+      "accuracy": 1.0,
+      "mean_correct": 0.992,
+      "mean_incorrect": NaN
+    },
+    "pushup": {
+      "n": 6,
+      "accuracy": 1.0,
+      "mean_correct": 1.0,
+      "mean_incorrect": NaN
+    },
+    "shoulder_press": {
+      "n": 6,
+      "accuracy": 1.0,
+      "mean_correct": 1.0,
+      "mean_incorrect": NaN
+    },
+    "squat": {
+      "n": 6,
+      "accuracy": 1.0,
+      "mean_correct": 1.0,
+      "mean_incorrect": NaN
+    }
+  },
+  "note": "In-sample if test_dir is the database folder; use held-out photos for the main result."
+}

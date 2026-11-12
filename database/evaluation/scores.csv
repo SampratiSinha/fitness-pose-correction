@@ -1,0 +1,30 @@
+image,exercise,true_label,phase,score,predicted,feedback,hit
+bicep_curl/barbell biceps curl_g11.jpg,bicep_curl,correct,extended,1.0,correct,Good form - within expected range.,True
+bicep_curl/barbell biceps curl_g17.jpg,bicep_curl,correct,curled,1.0,correct,Good form - within expected range.,True
+bicep_curl/barbell biceps curl_g19.jpg,bicep_curl,correct,curled,1.0,correct,Good form - within expected range.,True
+bicep_curl/barbell biceps curl_g6.jpg,bicep_curl,correct,curled,1.0,correct,Good form - within expected range.,True
+bicep_curl/barbell biceps curl_g9.jpg,bicep_curl,correct,extended,1.0,correct,Good form - within expected range.,True
+plank/plank_200081.jpg,plank,correct,hold,0.95,correct,Good form - within expected range.,True
+plank/plank_500051.jpg,plank,correct,hold,1.0,correct,Good form - within expected range.,True
+plank/plank_g17.jpg,plank,correct,hold,1.0,correct,Good form - within expected range.,True
+plank/plank_g18.jpg,plank,correct,hold,1.0,correct,Good form - within expected range.,True
+plank/plank_g19.jpg,plank,correct,hold,1.0,correct,Good form - within expected range.,True
+plank/plank_g22.jpg,plank,correct,hold,1.0,correct,Good form - within expected range.,True
+push up/push up_100011.jpg,pushup,correct,up,1.0,correct,Good form - within expected range.,True
+push up/push up_g17.jpg,pushup,correct,down,1.0,correct,Good form - within expected range.,True
+push up/push up_g19.jpg,pushup,correct,up,1.0,correct,Good form - within expected range.,True
+push up/push up_g20.jpg,pushup,correct,down,1.0,correct,Good form - within expected range.,True
+push up/push up_g8.jpg,pushup,correct,down,1.0,correct,Good form - within expected range.,True
+push up/push up_g9.jpg,pushup,correct,down,1.0,correct,Good form - within expected range.,True
+shoulder press/shoulder press_g2.jpg,shoulder_press,correct,up,1.0,correct,Good form - within expected range.,True
+shoulder press/shoulder press_g21.jpg,shoulder_press,correct,up,1.0,correct,Good form - within expected range.,True
+shoulder press/shoulder press_g23.jpg,shoulder_press,correct,down,1.0,correct,Good form - within expected range.,True
+shoulder press/shoulder press_g24.jpg,shoulder_press,correct,down,1.0,correct,Good form - within expected range.,True
+shoulder press/shoulder press_g7.jpg,shoulder_press,correct,up,1.0,correct,Good form - within expected range.,True
+shoulder press/shoulder press_g8.jpg,shoulder_press,correct,down,1.0,correct,Good form - within expected range.,True
+squat/squat_100101.jpg,squat,correct,up,1.0,correct,Good form - within expected range.,True
+squat/squat_1100081.jpg,squat,correct,down,1.0,correct,Good form - within expected range.,True
+squat/squat_1500261.jpg,squat,correct,down,1.0,correct,Good form - within expected range.,True
+squat/squat_1700061.jpg,squat,correct,down,1.0,correct,Good form - within expected range.,True
+squat/squat_2000051.jpg,squat,correct,up,1.0,correct,Good form - within expected range.,True
+squat/squat_2900021.jpg,squat,correct,down,1.0,correct,Good form - within expected range.,True

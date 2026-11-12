@@ -1,0 +1,263 @@
+{
+  "squat": {
+    "view": "side",
+    "primary_joint": "knee",
+    "primary_mode": "best_side",
+    "static": false,
+    "n_correct": 6,
+    "n_incorrect": 0,
+    "phases": {
+      "down": {
+        "knee": {
+          "mean": 95.41174283921089,
+          "std": 13.853182746724649,
+          "min": 76.20609796475262,
+          "max": 114.01190892639772,
+          "n": 4,
+          "suggested_tolerance_deg": 27.706365493449297
+        },
+        "hip": {
+          "mean": 89.81243702390722,
+          "std": 9.715917336148262,
+          "min": 78.63785319578973,
+          "max": 99.55992847396749,
+          "n": 4,
+          "suggested_tolerance_deg": 19.431834672296525
+        },
+        "torso_lean": {
+          "mean": 28.48697266887914,
+          "std": 15.859536577866756,
+          "min": 16.810456295469077,
+          "max": 55.81185884825066,
+          "n": 4,
+          "suggested_tolerance_deg": 31.71907315573351
+        }
+      },
+      "up": {
+        "knee": {
+          "mean": 161.47213820356018,
+          "std": 13.424924832845434,
+          "min": 148.04721337071473,
+          "max": 174.8970630364056,
+          "n": 2,
+          "suggested_tolerance_deg": 26.84984966569087
+        },
+        "hip": {
+          "mean": 156.72934809575415,
+          "std": 9.701352408733158,
+          "min": 147.027995687021,
+          "max": 166.4307005044873,
+          "n": 2,
+          "suggested_tolerance_deg": 19.402704817466315
+        },
+        "torso_lean": {
+          "mean": 5.253067607290711,
+          "std": 0.5614917255771719,
+          "min": 4.691575881713539,
+          "max": 5.814559332867883,
+          "n": 2,
+          "suggested_tolerance_deg": 10.0
+        }
+      }
+    },
+    "incorrect": {},
+    "primary_high_mean": 174.8970630364056,
+    "primary_low_mean": 76.20609796475262,
+    "phase_split_angle": 125.5515805005791,
+    "rep_thresholds": {
+      "low": 110.74793573983115,
+      "high": 140.35522526132706
+    }
+  },
+  "pushup": {
+    "view": "side",
+    "primary_joint": "elbow",
+    "primary_mode": "best_side",
+    "static": false,
+    "n_correct": 6,
+    "n_incorrect": 0,
+    "phases": {
+      "down": {
+        "elbow": {
+          "mean": 89.64668622258138,
+          "std": 15.849682755400655,
+          "min": 62.76896418812219,
+          "max": 102.73437105756061,
+          "n": 4,
+          "suggested_tolerance_deg": 31.69936551080131
+        },
+        "body_line": {
+          "mean": 163.62261704317393,
+          "std": 20.11698514730505,
+          "min": 128.78279721092224,
+          "max": 175.70774949197067,
+          "n": 4,
+          "suggested_tolerance_deg": 40.2339702946101
+        }
+      },
+      "up": {
+        "elbow": {
+          "mean": 154.28956021838093,
+          "std": 18.711746401549902,
+          "min": 135.57781381683102,
+          "max": 173.00130661993083,
+          "n": 2,
+          "suggested_tolerance_deg": 37.423492803099805
+        },
+        "body_line": {
+          "mean": 165.14399359358023,
+          "std": 13.951082381295151,
+          "min": 151.19291121228508,
+          "max": 179.09507597487539,
+          "n": 2,
+          "suggested_tolerance_deg": 27.902164762590303
+        }
+      }
+    },
+    "incorrect": {},
+    "primary_high_mean": 173.00130661993083,
+    "primary_low_mean": 62.76896418812219,
+    "phase_split_angle": 117.88513540402651,
+    "rep_thresholds": {
+      "low": 101.3502840392552,
+      "high": 134.4199867687978
+    }
+  },
+  "bicep_curl": {
+    "view": "side",
+    "primary_joint": "elbow",
+    "primary_mode": "best_side",
+    "static": false,
+    "n_correct": 5,
+    "n_incorrect": 0,
+    "phases": {
+      "curled": {
+        "elbow": {
+          "mean": 19.716713979390423,
+          "std": 15.780721495236708,
+          "min": 3.6579804541361156,
+          "max": 41.167502594377105,
+          "n": 3,
+          "suggested_tolerance_deg": 31.561442990473417
+        },
+        "torso_lean": {
+          "mean": 9.729608100209347,
+          "std": 0.7201699198534458,
+          "min": 8.87476744280313,
+          "max": 10.636510084480797,
+          "n": 3,
+          "suggested_tolerance_deg": 10.0
+        }
+      },
+      "extended": {
+        "elbow": {
+          "mean": 96.72007113204616,
+          "std": 17.149420870220226,
+          "min": 79.57065026182593,
+          "max": 113.86949200226638,
+          "n": 2,
+          "suggested_tolerance_deg": 34.29884174044045
+        },
+        "torso_lean": {
+          "mean": 5.723369505964324,
+          "std": 1.005824545748177,
+          "min": 4.717544960216147,
+          "max": 6.729194051712501,
+          "n": 2,
+          "suggested_tolerance_deg": 10.0
+        }
+      }
+    },
+    "incorrect": {},
+    "primary_high_mean": 113.86949200226638,
+    "primary_low_mean": 3.6579804541361156,
+    "phase_split_angle": 58.76373622820125,
+    "rep_thresholds": {
+      "low": 42.23200949598171,
+      "high": 75.29546296042079
+    }
+  },
+  "shoulder_press": {
+    "view": "side",
+    "primary_joint": "elbow",
+    "primary_mode": "best_side",
+    "static": false,
+    "n_correct": 6,
+    "n_incorrect": 0,
+    "phases": {
+      "down": {
+        "elbow": {
+          "mean": 53.2465487140617,
+          "std": 34.96823863201249,
+          "min": 4.677683534611047,
+          "max": 85.59110356857406,
+          "n": 3,
+          "suggested_tolerance_deg": 69.93647726402499
+        },
+        "torso_lean": {
+          "mean": 17.35146192213335,
+          "std": 11.6561003497572,
+          "min": 1.5842493424460165,
+          "max": 29.39959323238774,
+          "n": 3,
+          "suggested_tolerance_deg": 23.3122006995144
+        }
+      },
+      "up": {
+        "elbow": {
+          "mean": 154.16695564304652,
+          "std": 14.23850232027182,
+          "min": 139.17536543811227,
+          "max": 173.30498377153012,
+          "n": 3,
+          "suggested_tolerance_deg": 28.47700464054364
+        },
+        "torso_lean": {
+          "mean": 13.39915824554762,
+          "std": 9.70340135164651,
+          "min": 1.2789216944413822,
+          "max": 25.03232740420097,
+          "n": 3,
+          "suggested_tolerance_deg": 19.40680270329302
+        }
+      }
+    },
+    "incorrect": {},
+    "primary_high_mean": 173.30498377153012,
+    "primary_low_mean": 4.677683534611047,
+    "phase_split_angle": 88.99133365307058,
+    "rep_thresholds": {
+      "low": 63.69723861753272,
+      "high": 114.28542868860845
+    }
+  },
+  "plank": {
+    "view": "side",
+    "primary_joint": "body_line",
+    "primary_mode": "best_side",
+    "static": true,
+    "n_correct": 6,
+    "n_incorrect": 0,
+    "phases": {
+      "hold": {
+        "body_line": {
+          "mean": 171.09114133821643,
+          "std": 8.816840282995322,
+          "min": 151.9634659889149,
+          "max": 178.12179187290587,
+          "n": 6,
+          "suggested_tolerance_deg": 17.633680565990645
+        },
+        "hip": {
+          "mean": 167.20313567868757,
+          "std": 10.343916001860439,
+          "min": 144.5219261992104,
+          "max": 174.16150053648494,
+          "n": 6,
+          "suggested_tolerance_deg": 20.687832003720878
+        }
+      }
+    },
+    "incorrect": {}
+  }
+}

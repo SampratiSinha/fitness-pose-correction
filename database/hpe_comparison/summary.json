@@ -1,0 +1,27 @@
+{
+  "n_images_total": 30,
+  "n_images_both_detected": 27,
+  "mediapipe_detection_rate": 1.0,
+  "openpose_detection_rate": 0.967,
+  "mediapipe_mean_inference_ms": 136.8,
+  "openpose_mean_inference_ms": 1468.7,
+  "speedup_mediapipe_vs_openpose": 10.7,
+  "pck_threshold": 0.2,
+  "overall_pck": 0.831,
+  "per_joint_pck": {
+    "l_ankle": 0.8125,
+    "l_elbow": 0.8181818181818182,
+    "l_hip": 0.7407407407407407,
+    "l_knee": 0.85,
+    "l_shoulder": 0.7407407407407407,
+    "l_wrist": 0.9473684210526315,
+    "nose": 0.96,
+    "r_ankle": 0.9375,
+    "r_elbow": 0.8260869565217391,
+    "r_hip": 0.6923076923076923,
+    "r_knee": 0.7142857142857143,
+    "r_shoulder": 0.9259259259259259,
+    "r_wrist": 0.9047619047619048
+  },
+  "mean_normalized_distance": 0.185
+}
