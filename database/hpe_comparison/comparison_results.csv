@@ -1,0 +1,352 @@
+joint,distance_px,norm_distance,correct,image,exercise
+nose,14.794906007987503,0.06987604463837453,True,bicep_curl\barbell biceps curl_g11.jpg,bicep_curl
+r_shoulder,25.901691495254497,0.12233316995421752,True,bicep_curl\barbell biceps curl_g11.jpg,bicep_curl
+l_shoulder,19.886387455346785,0.09392300949905412,True,bicep_curl\barbell biceps curl_g11.jpg,bicep_curl
+r_elbow,,,,bicep_curl\barbell biceps curl_g11.jpg,bicep_curl
+l_elbow,5.412698824361455,0.025564068096205903,True,bicep_curl\barbell biceps curl_g11.jpg,bicep_curl
+r_wrist,,,,bicep_curl\barbell biceps curl_g11.jpg,bicep_curl
+l_wrist,14.3735138746957,0.06788581803603849,True,bicep_curl\barbell biceps curl_g11.jpg,bicep_curl
+r_hip,25.758727767713662,0.12165795513352731,True,bicep_curl\barbell biceps curl_g11.jpg,bicep_curl
+l_hip,4.785127056302321,0.0226000592099711,True,bicep_curl\barbell biceps curl_g11.jpg,bicep_curl
+r_knee,,,,bicep_curl\barbell biceps curl_g11.jpg,bicep_curl
+l_knee,,,,bicep_curl\barbell biceps curl_g11.jpg,bicep_curl
+r_ankle,,,,bicep_curl\barbell biceps curl_g11.jpg,bicep_curl
+l_ankle,,,,bicep_curl\barbell biceps curl_g11.jpg,bicep_curl
+nose,15.476375826127397,0.12674779845359493,True,bicep_curl\barbell biceps curl_g17.jpg,bicep_curl
+r_shoulder,12.897757800601665,0.10562953656463402,True,bicep_curl\barbell biceps curl_g17.jpg,bicep_curl
+l_shoulder,3.5519660999191514,0.029089748685639624,True,bicep_curl\barbell biceps curl_g17.jpg,bicep_curl
+r_elbow,15.74341744667966,0.1289348051456487,True,bicep_curl\barbell biceps curl_g17.jpg,bicep_curl
+l_elbow,11.831573958364734,0.09689774714128678,True,bicep_curl\barbell biceps curl_g17.jpg,bicep_curl
+r_wrist,15.068339182071506,0.12340607640551914,True,bicep_curl\barbell biceps curl_g17.jpg,bicep_curl
+l_wrist,12.525444412145703,0.10258037939426311,True,bicep_curl\barbell biceps curl_g17.jpg,bicep_curl
+r_hip,14.275222760888884,0.11691064353210812,True,bicep_curl\barbell biceps curl_g17.jpg,bicep_curl
+l_hip,15.458617093175839,0.1266023586988214,True,bicep_curl\barbell biceps curl_g17.jpg,bicep_curl
+r_knee,8.531168046852445,0.0698682159392077,True,bicep_curl\barbell biceps curl_g17.jpg,bicep_curl
+l_knee,20.454191929076305,0.16751491597800197,True,bicep_curl\barbell biceps curl_g17.jpg,bicep_curl
+r_ankle,6.382951414424859,0.05227483801787789,True,bicep_curl\barbell biceps curl_g17.jpg,bicep_curl
+l_ankle,4.245449162313853,0.03476920829626732,True,bicep_curl\barbell biceps curl_g17.jpg,bicep_curl
+nose,16.67257124143959,0.055817487279502066,True,bicep_curl\barbell biceps curl_g18.jpg,bicep_curl
+r_shoulder,85.79983018732095,0.28724609184220273,False,bicep_curl\barbell biceps curl_g18.jpg,bicep_curl
+l_shoulder,10.11285608950878,0.033856458488693904,True,bicep_curl\barbell biceps curl_g18.jpg,bicep_curl
+r_elbow,187.08467038452272,0.6263338784495888,False,bicep_curl\barbell biceps curl_g18.jpg,bicep_curl
+l_elbow,70.55293688412783,0.23620157923051607,False,bicep_curl\barbell biceps curl_g18.jpg,bicep_curl
+r_wrist,56.33373663450128,0.18859764234731147,True,bicep_curl\barbell biceps curl_g18.jpg,bicep_curl
+l_wrist,54.82848822424776,0.18355827662650487,True,bicep_curl\barbell biceps curl_g18.jpg,bicep_curl
+r_hip,181.94485198113696,0.6091264696944912,False,bicep_curl\barbell biceps curl_g18.jpg,bicep_curl
+l_hip,169.1692061889408,0.5663553556193618,False,bicep_curl\barbell biceps curl_g18.jpg,bicep_curl
+r_knee,,,,bicep_curl\barbell biceps curl_g18.jpg,bicep_curl
+l_knee,,,,bicep_curl\barbell biceps curl_g18.jpg,bicep_curl
+r_ankle,,,,bicep_curl\barbell biceps curl_g18.jpg,bicep_curl
+l_ankle,,,,bicep_curl\barbell biceps curl_g18.jpg,bicep_curl
+nose,22.261807575883743,0.04892559794775041,True,bicep_curl\barbell biceps curl_g19.jpg,bicep_curl
+r_shoulder,41.33002964842961,0.09083253490782177,True,bicep_curl\barbell biceps curl_g19.jpg,bicep_curl
+l_shoulder,30.77988910093427,0.06764610078922907,True,bicep_curl\barbell biceps curl_g19.jpg,bicep_curl
+r_elbow,16.855100643837766,0.0370430781354258,True,bicep_curl\barbell biceps curl_g19.jpg,bicep_curl
+l_elbow,9.989083108294817,0.021953377431603107,True,bicep_curl\barbell biceps curl_g19.jpg,bicep_curl
+r_wrist,28.49735984418311,0.06262970181357888,True,bicep_curl\barbell biceps curl_g19.jpg,bicep_curl
+l_wrist,21.756594904746336,0.04781527337316579,True,bicep_curl\barbell biceps curl_g19.jpg,bicep_curl
+r_hip,33.39997721859782,0.07340436535941396,True,bicep_curl\barbell biceps curl_g19.jpg,bicep_curl
+l_hip,10.640558525603725,0.023385149053536784,True,bicep_curl\barbell biceps curl_g19.jpg,bicep_curl
+r_knee,,,,bicep_curl\barbell biceps curl_g19.jpg,bicep_curl
+l_knee,,,,bicep_curl\barbell biceps curl_g19.jpg,bicep_curl
+r_ankle,,,,bicep_curl\barbell biceps curl_g19.jpg,bicep_curl
+l_ankle,,,,bicep_curl\barbell biceps curl_g19.jpg,bicep_curl
+nose,22.86550660477166,0.10524066021555663,True,bicep_curl\barbell biceps curl_g6.jpg,bicep_curl
+r_shoulder,18.378467561606577,0.08458863795871634,True,bicep_curl\barbell biceps curl_g6.jpg,bicep_curl
+l_shoulder,19.9601715372691,0.09186858034274195,True,bicep_curl\barbell biceps curl_g6.jpg,bicep_curl
+r_elbow,11.417852940870304,0.05255174978238036,True,bicep_curl\barbell biceps curl_g6.jpg,bicep_curl
+l_elbow,10.361302500464955,0.04768887629257575,True,bicep_curl\barbell biceps curl_g6.jpg,bicep_curl
+r_wrist,18.769898412925357,0.0863902355324578,True,bicep_curl\barbell biceps curl_g6.jpg,bicep_curl
+l_wrist,15.389752521916424,0.07083279386525912,True,bicep_curl\barbell biceps curl_g6.jpg,bicep_curl
+r_hip,13.192982282221617,0.06072195073532285,True,bicep_curl\barbell biceps curl_g6.jpg,bicep_curl
+l_hip,9.47461753234135,0.04360782473043522,True,bicep_curl\barbell biceps curl_g6.jpg,bicep_curl
+r_knee,11.123077120272884,0.05119501614373964,True,bicep_curl\barbell biceps curl_g6.jpg,bicep_curl
+l_knee,18.258717263694813,0.08403747586853927,True,bicep_curl\barbell biceps curl_g6.jpg,bicep_curl
+r_ankle,17.029347673848868,0.07837918587214286,True,bicep_curl\barbell biceps curl_g6.jpg,bicep_curl
+l_ankle,14.589893515581132,0.0671513670173397,True,bicep_curl\barbell biceps curl_g6.jpg,bicep_curl
+nose,16.431394085034427,0.10069175461905752,True,bicep_curl\barbell biceps curl_g9.jpg,bicep_curl
+r_shoulder,12.030387359831318,0.07372233942776915,True,bicep_curl\barbell biceps curl_g9.jpg,bicep_curl
+l_shoulder,33.53316365359519,0.20549157720487055,False,bicep_curl\barbell biceps curl_g9.jpg,bicep_curl
+r_elbow,36.18863470592167,0.22176433155639572,False,bicep_curl\barbell biceps curl_g9.jpg,bicep_curl
+l_elbow,29.425684244903906,0.180320900475775,True,bicep_curl\barbell biceps curl_g9.jpg,bicep_curl
+r_wrist,42.36336739243644,0.25960315796949346,False,bicep_curl\barbell biceps curl_g9.jpg,bicep_curl
+l_wrist,60.728280279516405,0.3721435360078033,False,bicep_curl\barbell biceps curl_g9.jpg,bicep_curl
+r_hip,32.58803738170399,0.19969983353657342,True,bicep_curl\barbell biceps curl_g9.jpg,bicep_curl
+l_hip,42.65137137052729,0.26136804935613783,False,bicep_curl\barbell biceps curl_g9.jpg,bicep_curl
+r_knee,94.15934138398495,0.5770094277249158,False,bicep_curl\barbell biceps curl_g9.jpg,bicep_curl
+l_knee,73.2133086939893,0.4486519205682502,False,bicep_curl\barbell biceps curl_g9.jpg,bicep_curl
+r_ankle,,,,bicep_curl\barbell biceps curl_g9.jpg,bicep_curl
+l_ankle,,,,bicep_curl\barbell biceps curl_g9.jpg,bicep_curl
+nose,10.278286404096507,0.09222865311584827,True,plank\plank_200081.jpg,plank
+r_shoulder,14.053983198190453,0.1261085642413372,True,plank\plank_200081.jpg,plank
+l_shoulder,38.33445872129477,0.34398102531770075,False,plank\plank_200081.jpg,plank
+r_elbow,6.0968395190964655,0.05470788368824125,True,plank\plank_200081.jpg,plank
+l_elbow,,,,plank\plank_200081.jpg,plank
+r_wrist,11.363039080183594,0.10196230660106834,True,plank\plank_200081.jpg,plank
+l_wrist,,,,plank\plank_200081.jpg,plank
+r_hip,,,,plank\plank_200081.jpg,plank
+l_hip,21.192119135802105,0.19016016169647015,True,plank\plank_200081.jpg,plank
+r_knee,31.38193924477357,0.28159499306764707,False,plank\plank_200081.jpg,plank
+l_knee,,,,plank\plank_200081.jpg,plank
+r_ankle,20.701294027983238,0.1857559121134333,True,plank\plank_200081.jpg,plank
+l_ankle,,,,plank\plank_200081.jpg,plank
+nose,33.735895299979674,0.12320691405874612,True,plank\plank_g17.jpg,plank
+r_shoulder,47.20044969502604,0.17238083345346245,True,plank\plank_g17.jpg,plank
+l_shoulder,48.63195030612075,0.17760881899224537,True,plank\plank_g17.jpg,plank
+r_elbow,25.446959312585292,0.09293487844930542,True,plank\plank_g17.jpg,plank
+l_elbow,,,,plank\plank_g17.jpg,plank
+r_wrist,24.550207118910834,0.08965984841154895,True,plank\plank_g17.jpg,plank
+l_wrist,,,,plank\plank_g17.jpg,plank
+r_hip,36.46761488753103,0.1331834312806334,True,plank\plank_g17.jpg,plank
+l_hip,40.78304922696693,0.14894383553424043,True,plank\plank_g17.jpg,plank
+r_knee,25.506560760258544,0.09315254898616115,True,plank\plank_g17.jpg,plank
+l_knee,,,,plank\plank_g17.jpg,plank
+r_ankle,24.758630105118016,0.09042103031353069,True,plank\plank_g17.jpg,plank
+l_ankle,,,,plank\plank_g17.jpg,plank
+nose,113.94055680016999,0.10977253331720667,True,plank\plank_g18.jpg,plank
+r_shoulder,129.4774666663389,0.1247410923959694,True,plank\plank_g18.jpg,plank
+l_shoulder,160.5727457423957,0.15469888489974618,True,plank\plank_g18.jpg,plank
+r_elbow,59.16091940662372,0.05699677251911141,True,plank\plank_g18.jpg,plank
+l_elbow,754.6642097633431,0.727058076913193,False,plank\plank_g18.jpg,plank
+r_wrist,113.5222673404151,0.10936954517192572,True,plank\plank_g18.jpg,plank
+l_wrist,,,,plank\plank_g18.jpg,plank
+r_hip,243.1433448138877,0.23424899499349944,False,plank\plank_g18.jpg,plank
+l_hip,169.1315703752213,0.16294462187477887,True,plank\plank_g18.jpg,plank
+r_knee,309.5589102090586,0.29823503359000064,False,plank\plank_g18.jpg,plank
+l_knee,99.85303769961743,0.09620034529872681,True,plank\plank_g18.jpg,plank
+r_ankle,136.20805064957813,0.13122546701457125,True,plank\plank_g18.jpg,plank
+l_ankle,254.8256594270159,0.2455039625494399,False,plank\plank_g18.jpg,plank
+nose,12.824660442518502,0.07210240089495197,True,plank\plank_g19.jpg,plank
+r_shoulder,16.871412194925302,0.09485392078759755,True,plank\plank_g19.jpg,plank
+l_shoulder,54.63336051937953,0.3071579540107626,False,plank\plank_g19.jpg,plank
+r_elbow,12.255589048636626,0.0689029856774164,True,plank\plank_g19.jpg,plank
+l_elbow,,,,plank\plank_g19.jpg,plank
+r_wrist,25.748293499237754,0.1447612424955826,True,plank\plank_g19.jpg,plank
+l_wrist,,,,plank\plank_g19.jpg,plank
+r_hip,5.605610972655944,0.031515688966826806,True,plank\plank_g19.jpg,plank
+l_hip,37.22876521014589,0.20930638795757786,False,plank\plank_g19.jpg,plank
+r_knee,14.886823776492484,0.08369623046131698,True,plank\plank_g19.jpg,plank
+l_knee,14.0497720784018,0.07899018484115844,True,plank\plank_g19.jpg,plank
+r_ankle,16.312602561408386,0.09171219891508571,True,plank\plank_g19.jpg,plank
+l_ankle,16.28172078901727,0.09153857638969637,True,plank\plank_g19.jpg,plank
+nose,10.545728094014375,0.0915190675488515,True,push up\push up_100011.jpg,push up
+r_shoulder,21.55344692709105,0.1870474326329945,True,push up\push up_100011.jpg,push up
+l_shoulder,35.63170594341854,0.3092228885521358,False,push up\push up_100011.jpg,push up
+r_elbow,,,,push up\push up_100011.jpg,push up
+l_elbow,6.392957986635102,0.05548005302240917,True,push up\push up_100011.jpg,push up
+r_wrist,,,,push up\push up_100011.jpg,push up
+l_wrist,,,,push up\push up_100011.jpg,push up
+r_hip,15.41385375607919,0.13376615730225436,True,push up\push up_100011.jpg,push up
+l_hip,18.623497427105757,0.16162043093018424,True,push up\push up_100011.jpg,push up
+r_knee,13.593568986673738,0.11796916696794846,True,push up\push up_100011.jpg,push up
+l_knee,14.185503584470322,0.12310615722194485,True,push up\push up_100011.jpg,push up
+r_ankle,4.232410761386835,0.03673016058376289,True,push up\push up_100011.jpg,push up
+l_ankle,6.23101360213795,0.05407464991208583,True,push up\push up_100011.jpg,push up
+nose,16.458326299226375,0.11600198355283414,True,push up\push up_g17.jpg,push up
+r_shoulder,3.9972184666957804,0.028173294319272575,True,push up\push up_g17.jpg,push up
+l_shoulder,13.160124582021536,0.09275551642141575,True,push up\push up_g17.jpg,push up
+r_elbow,9.168427270952458,0.06462113644814392,True,push up\push up_g17.jpg,push up
+l_elbow,6.024813695482566,0.042464241290750805,True,push up\push up_g17.jpg,push up
+r_wrist,9.758769730434937,0.06878200281027487,True,push up\push up_g17.jpg,push up
+l_wrist,16.356082628209617,0.1152813471753536,True,push up\push up_g17.jpg,push up
+r_hip,46.962384573375466,0.3310014435148636,False,push up\push up_g17.jpg,push up
+l_hip,54.24992046211605,0.3823656346808943,False,push up\push up_g17.jpg,push up
+r_knee,59.260738660628455,0.4176830077650213,False,push up\push up_g17.jpg,push up
+l_knee,,,,push up\push up_g17.jpg,push up
+r_ankle,8.068285232319754,0.056867088050327724,True,push up\push up_g17.jpg,push up
+l_ankle,37.52453959111585,0.2644813904729124,False,push up\push up_g17.jpg,push up
+nose,13.056883453915145,0.038328324440084716,True,push up\push up_g19.jpg,push up
+r_shoulder,6.4799122263061,0.019021704454186508,True,push up\push up_g19.jpg,push up
+l_shoulder,62.321247472353335,0.18294327287687617,True,push up\push up_g19.jpg,push up
+r_elbow,24.026142873636378,0.07052845362025768,True,push up\push up_g19.jpg,push up
+l_elbow,20.44512296875058,0.060016412731992895,True,push up\push up_g19.jpg,push up
+r_wrist,27.378607533822944,0.08036957333485693,True,push up\push up_g19.jpg,push up
+l_wrist,29.303328675273367,0.08601956911115234,True,push up\push up_g19.jpg,push up
+r_hip,50.66383554323283,0.14872308027669887,True,push up\push up_g19.jpg,push up
+l_hip,11.17345204273068,0.03279953417069782,True,push up\push up_g19.jpg,push up
+r_knee,,,,push up\push up_g19.jpg,push up
+l_knee,24.372275659797335,0.07154452225364583,True,push up\push up_g19.jpg,push up
+r_ankle,,,,push up\push up_g19.jpg,push up
+l_ankle,41.922269705061204,0.12306231882911642,True,push up\push up_g19.jpg,push up
+nose,8.72908906511556,0.06833582702565663,True,push up\push up_g20.jpg,push up
+r_shoulder,8.04541583210943,0.06298367911603282,True,push up\push up_g20.jpg,push up
+l_shoulder,3.051204715951985,0.0238864096967949,True,push up\push up_g20.jpg,push up
+r_elbow,4.590850420689219,0.03593955313190842,True,push up\push up_g20.jpg,push up
+l_elbow,5.728913635947522,0.04484890099650424,True,push up\push up_g20.jpg,push up
+r_wrist,11.640368096020275,0.09112682604001852,True,push up\push up_g20.jpg,push up
+l_wrist,1.1982436535987342,0.00938047148288891,True,push up\push up_g20.jpg,push up
+r_hip,45.43257986126932,0.3556697492223297,False,push up\push up_g20.jpg,push up
+l_hip,45.70101633019221,0.35777120883293223,False,push up\push up_g20.jpg,push up
+r_knee,,,,push up\push up_g20.jpg,push up
+l_knee,,,,push up\push up_g20.jpg,push up
+r_ankle,,,,push up\push up_g20.jpg,push up
+l_ankle,,,,push up\push up_g20.jpg,push up
+nose,12.371439129262075,0.08756967741241778,True,push up\push up_g9.jpg,push up
+r_shoulder,30.015179984223206,0.21245868012857966,False,push up\push up_g9.jpg,push up
+l_shoulder,13.011388472948955,0.09209947843244601,True,push up\push up_g9.jpg,push up
+r_elbow,37.24836531508699,0.26365787364760845,False,push up\push up_g9.jpg,push up
+l_elbow,34.91898606046222,0.24716965527888285,False,push up\push up_g9.jpg,push up
+r_wrist,,,,push up\push up_g9.jpg,push up
+l_wrist,6.666923412429447,0.04719097967986895,True,push up\push up_g9.jpg,push up
+r_hip,38.068207227741844,0.2694610216136808,False,push up\push up_g9.jpg,push up
+l_hip,16.734458095510576,0.11845275895423604,True,push up\push up_g9.jpg,push up
+r_knee,52.20380036282085,0.36951804149135853,False,push up\push up_g9.jpg,push up
+l_knee,21.952669295866304,0.15538921127078015,True,push up\push up_g9.jpg,push up
+r_ankle,,,,push up\push up_g9.jpg,push up
+l_ankle,15.612641021643382,0.11051211775252387,True,push up\push up_g9.jpg,push up
+nose,30.55672131199924,0.11455983598754758,True,shoulder press\shoulder press_g2.jpg,shoulder press
+r_shoulder,19.664776657272753,0.07372497741451983,True,shoulder press\shoulder press_g2.jpg,shoulder press
+l_shoulder,12.98698363722608,0.04868934399939528,True,shoulder press\shoulder press_g2.jpg,shoulder press
+r_elbow,18.355462754917944,0.06881624442649859,True,shoulder press\shoulder press_g2.jpg,shoulder press
+l_elbow,20.17377734323589,0.07563326575822339,True,shoulder press\shoulder press_g2.jpg,shoulder press
+r_wrist,23.58311448618204,0.08841517059461669,True,shoulder press\shoulder press_g2.jpg,shoulder press
+l_wrist,7.146821477367032,0.0267940623576634,True,shoulder press\shoulder press_g2.jpg,shoulder press
+r_hip,37.37755194442894,0.1401317299931765,True,shoulder press\shoulder press_g2.jpg,shoulder press
+l_hip,33.195731986005114,0.12445371913347206,True,shoulder press\shoulder press_g2.jpg,shoulder press
+r_knee,7.843623584078828,0.02940643474688745,True,shoulder press\shoulder press_g2.jpg,shoulder press
+l_knee,16.197545576830855,0.060726023114067,True,shoulder press\shoulder press_g2.jpg,shoulder press
+r_ankle,,,,shoulder press\shoulder press_g2.jpg,shoulder press
+l_ankle,,,,shoulder press\shoulder press_g2.jpg,shoulder press
+nose,12.10447570210247,0.07149757971647584,True,shoulder press\shoulder press_g21.jpg,shoulder press
+r_shoulder,7.353471676618649,0.04343479555257142,True,shoulder press\shoulder press_g21.jpg,shoulder press
+l_shoulder,21.210392627461072,0.12528355420105017,True,shoulder press\shoulder press_g21.jpg,shoulder press
+r_elbow,14.14118240192532,0.08352780747796175,True,shoulder press\shoulder press_g21.jpg,shoulder press
+l_elbow,11.205309897983673,0.06618647163212105,True,shoulder press\shoulder press_g21.jpg,shoulder press
+r_wrist,8.838722222412061,0.05220773391935743,True,shoulder press\shoulder press_g21.jpg,shoulder press
+l_wrist,10.54008805313582,0.062257201744546374,True,shoulder press\shoulder press_g21.jpg,shoulder press
+r_hip,32.517766973392014,0.19207289052412685,True,shoulder press\shoulder press_g21.jpg,shoulder press
+l_hip,25.791432774140223,0.15234241169577656,True,shoulder press\shoulder press_g21.jpg,shoulder press
+r_knee,10.358318922780308,0.061183544924752815,True,shoulder press\shoulder press_g21.jpg,shoulder press
+l_knee,8.430720955214714,0.04979779037088976,True,shoulder press\shoulder press_g21.jpg,shoulder press
+r_ankle,18.8695254803757,0.11145674008919687,True,shoulder press\shoulder press_g21.jpg,shoulder press
+l_ankle,11.28010561248186,0.06662826793056427,True,shoulder press\shoulder press_g21.jpg,shoulder press
+nose,13.256241304582165,0.04344393888267659,True,shoulder press\shoulder press_g23.jpg,shoulder press
+r_shoulder,15.963574748560147,0.05231653149567844,True,shoulder press\shoulder press_g23.jpg,shoulder press
+l_shoulder,26.002937280250524,0.08521797333176137,True,shoulder press\shoulder press_g23.jpg,shoulder press
+r_elbow,11.13659783249771,0.036497349775063484,True,shoulder press\shoulder press_g23.jpg,shoulder press
+l_elbow,21.290848602654954,0.06977530841523985,True,shoulder press\shoulder press_g23.jpg,shoulder press
+r_wrist,21.048008099079706,0.06897946080254479,True,shoulder press\shoulder press_g23.jpg,shoulder press
+l_wrist,21.930504239893157,0.07187161609187595,True,shoulder press\shoulder press_g23.jpg,shoulder press
+r_hip,22.295732590121112,0.0730685585555017,True,shoulder press\shoulder press_g23.jpg,shoulder press
+l_hip,15.862947955292624,0.05198675292902223,True,shoulder press\shoulder press_g23.jpg,shoulder press
+r_knee,,,,shoulder press\shoulder press_g23.jpg,shoulder press
+l_knee,24.044190991591847,0.07879868357262407,True,shoulder press\shoulder press_g23.jpg,shoulder press
+r_ankle,,,,shoulder press\shoulder press_g23.jpg,shoulder press
+l_ankle,,,,shoulder press\shoulder press_g23.jpg,shoulder press
+nose,40.486808656593105,0.1319621683691753,True,shoulder press\shoulder press_g24.jpg,shoulder press
+r_shoulder,25.633979340702027,0.08355105304598566,True,shoulder press\shoulder press_g24.jpg,shoulder press
+l_shoulder,41.460545812219166,0.13513595436865844,True,shoulder press\shoulder press_g24.jpg,shoulder press
+r_elbow,20.13719957527017,0.06563492181799194,True,shoulder press\shoulder press_g24.jpg,shoulder press
+l_elbow,48.402975510425,0.15776401785710067,True,shoulder press\shoulder press_g24.jpg,shoulder press
+r_wrist,13.069978842228227,0.04260011608197756,True,shoulder press\shoulder press_g24.jpg,shoulder press
+l_wrist,25.29212786255332,0.08243682686186371,True,shoulder press\shoulder press_g24.jpg,shoulder press
+r_hip,76.77360223664787,0.25023486317711524,False,shoulder press\shoulder press_g24.jpg,shoulder press
+l_hip,43.445584905968964,0.141605964522599,True,shoulder press\shoulder press_g24.jpg,shoulder press
+r_knee,17.314419010789166,0.05643438820026956,True,shoulder press\shoulder press_g24.jpg,shoulder press
+l_knee,33.94667765955288,0.11064535194365197,True,shoulder press\shoulder press_g24.jpg,shoulder press
+r_ankle,45.090997654051975,0.14696900105978378,True,shoulder press\shoulder press_g24.jpg,shoulder press
+l_ankle,31.252835676632838,0.1018650790324118,True,shoulder press\shoulder press_g24.jpg,shoulder press
+nose,18.372844530688027,0.07919079681550453,True,shoulder press\shoulder press_g7.jpg,shoulder press
+r_shoulder,29.4936550435055,0.12712381253733712,True,shoulder press\shoulder press_g7.jpg,shoulder press
+l_shoulder,18.44918441362426,0.07951983765337942,True,shoulder press\shoulder press_g7.jpg,shoulder press
+r_elbow,18.754023269691775,0.08083375678397413,True,shoulder press\shoulder press_g7.jpg,shoulder press
+l_elbow,6.95091715787633,0.029959904543435195,True,shoulder press\shoulder press_g7.jpg,shoulder press
+r_wrist,13.073286519424963,0.0563485950551331,True,shoulder press\shoulder press_g7.jpg,shoulder press
+l_wrist,6.365855315648632,0.027438165822195205,True,shoulder press\shoulder press_g7.jpg,shoulder press
+r_hip,25.025286139468648,0.10786420941027305,True,shoulder press\shoulder press_g7.jpg,shoulder press
+l_hip,17.131425135229296,0.07384001996957879,True,shoulder press\shoulder press_g7.jpg,shoulder press
+r_knee,14.243091804608907,0.0613907001302603,True,shoulder press\shoulder press_g7.jpg,shoulder press
+l_knee,26.83176321882603,0.11565050287747736,True,shoulder press\shoulder press_g7.jpg,shoulder press
+r_ankle,28.761260451181982,0.12396703889498736,True,shoulder press\shoulder press_g7.jpg,shoulder press
+l_ankle,11.657819100475637,0.050247634880688896,True,shoulder press\shoulder press_g7.jpg,shoulder press
+nose,43.97913016713318,0.10264949906189459,True,shoulder press\shoulder press_g8.jpg,shoulder press
+r_shoulder,2.293774555044748,0.0053537850371635,True,shoulder press\shoulder press_g8.jpg,shoulder press
+l_shoulder,21.731898501648637,0.05072334278510322,True,shoulder press\shoulder press_g8.jpg,shoulder press
+r_elbow,54.42938101082268,0.12704090948996025,True,shoulder press\shoulder press_g8.jpg,shoulder press
+l_elbow,44.499807079355215,0.10386478513075433,True,shoulder press\shoulder press_g8.jpg,shoulder press
+r_wrist,24.80009152178549,0.057884659422002493,True,shoulder press\shoulder press_g8.jpg,shoulder press
+l_wrist,33.854098867952374,0.07901716738782176,True,shoulder press\shoulder press_g8.jpg,shoulder press
+r_hip,25.41501068784486,0.059319911645492905,True,shoulder press\shoulder press_g8.jpg,shoulder press
+l_hip,58.26945389257958,0.13600383249856704,True,shoulder press\shoulder press_g8.jpg,shoulder press
+r_knee,15.08365565529353,0.03520601001324723,True,shoulder press\shoulder press_g8.jpg,shoulder press
+l_knee,10.480891628502649,0.02446292755903163,True,shoulder press\shoulder press_g8.jpg,shoulder press
+r_ankle,47.97060636173807,0.11196580500829702,True,shoulder press\shoulder press_g8.jpg,shoulder press
+l_ankle,,,,shoulder press\shoulder press_g8.jpg,shoulder press
+nose,265.1806725176598,2.20727258767135,False,squat\squat_100101.jpg,squat
+r_shoulder,11.945570551739543,0.09943081512168987,True,squat\squat_100101.jpg,squat
+l_shoulder,260.74389839609574,2.1703424079442972,False,squat\squat_100101.jpg,squat
+r_elbow,10.451827258826874,0.08699741040874083,True,squat\squat_100101.jpg,squat
+l_elbow,11.270504175671885,0.09381179510561555,True,squat\squat_100101.jpg,squat
+r_wrist,8.261694337673768,0.06876749827253154,True,squat\squat_100101.jpg,squat
+l_wrist,3.6071483423942747,0.030024660471063565,True,squat\squat_100101.jpg,squat
+r_hip,236.77612013191603,1.9708428763697026,False,squat\squat_100101.jpg,squat
+l_hip,259.88742572501036,2.1632134244062886,False,squat\squat_100101.jpg,squat
+r_knee,234.2405152164451,1.949737374336137,False,squat\squat_100101.jpg,squat
+l_knee,278.22302645827307,2.3158326499809663,False,squat\squat_100101.jpg,squat
+r_ankle,237.52787143976042,1.9771001953469765,False,squat\squat_100101.jpg,squat
+l_ankle,271.9887805737107,2.26394093436251,False,squat\squat_100101.jpg,squat
+nose,,,,squat\squat_1100081.jpg,squat
+r_shoulder,10.310651319237854,0.11349556936850186,True,squat\squat_1100081.jpg,squat
+l_shoulder,62.35745651617611,0.6864062038903421,False,squat\squat_1100081.jpg,squat
+r_elbow,54.980685126475585,0.6052056237278445,False,squat\squat_1100081.jpg,squat
+l_elbow,,,,squat\squat_1100081.jpg,squat
+r_wrist,76.60043229798423,0.843187244758436,False,squat\squat_1100081.jpg,squat
+l_wrist,14.578480753170506,0.1604741468195762,True,squat\squat_1100081.jpg,squat
+r_hip,30.09677823605445,0.33129342427525993,False,squat\squat_1100081.jpg,squat
+l_hip,20.513288803183944,0.22580216518368018,False,squat\squat_1100081.jpg,squat
+r_knee,13.029635788808495,0.1434250743942663,True,squat\squat_1100081.jpg,squat
+l_knee,5.570767228053213,0.061320801062063814,True,squat\squat_1100081.jpg,squat
+r_ankle,4.894430079246649,0.05387594938274777,True,squat\squat_1100081.jpg,squat
+l_ankle,2.797755686350825,0.03079658740703319,True,squat\squat_1100081.jpg,squat
+nose,12.66126968008657,0.1162613180641034,True,squat\squat_1500261.jpg,squat
+r_shoulder,16.903598432649567,0.15521623687528266,True,squat\squat_1500261.jpg,squat
+l_shoulder,15.545207778032799,0.14274289952902167,True,squat\squat_1500261.jpg,squat
+r_elbow,,,,squat\squat_1500261.jpg,squat
+l_elbow,22.367124286941586,0.20538472180190287,False,squat\squat_1500261.jpg,squat
+r_wrist,,,,squat\squat_1500261.jpg,squat
+l_wrist,,,,squat\squat_1500261.jpg,squat
+r_hip,18.55387758123761,0.1703698220872233,True,squat\squat_1500261.jpg,squat
+l_hip,9.242532347152245,0.0848689760253716,True,squat\squat_1500261.jpg,squat
+r_knee,6.396499758674434,0.058735459533717504,True,squat\squat_1500261.jpg,squat
+l_knee,6.2064168925665335,0.05699003548751269,True,squat\squat_1500261.jpg,squat
+r_ankle,14.806955978198353,0.13596394848535648,True,squat\squat_1500261.jpg,squat
+l_ankle,11.001658410901475,0.10102204123762804,True,squat\squat_1500261.jpg,squat
+nose,12.651774546988555,0.1530902009003254,True,squat\squat_1700061.jpg,squat
+r_shoulder,5.89855456336462,0.07137424870900505,True,squat\squat_1700061.jpg,squat
+l_shoulder,11.08297298388281,0.13410723961085402,True,squat\squat_1700061.jpg,squat
+r_elbow,7.211259463919324,0.08725836490174858,True,squat\squat_1700061.jpg,squat
+l_elbow,7.320678111012483,0.0885823627807434,True,squat\squat_1700061.jpg,squat
+r_wrist,,,,squat\squat_1700061.jpg,squat
+l_wrist,10.427321184132856,0.12617365959236784,True,squat\squat_1700061.jpg,squat
+r_hip,14.278233032819777,0.1727708279481104,True,squat\squat_1700061.jpg,squat
+l_hip,13.227197827377248,0.16005299218863503,True,squat\squat_1700061.jpg,squat
+r_knee,4.382667349774777,0.053031566644223746,True,squat\squat_1700061.jpg,squat
+l_knee,1.3376085327005187,0.016185457481603126,True,squat\squat_1700061.jpg,squat
+r_ankle,,,,squat\squat_1700061.jpg,squat
+l_ankle,6.037871255610399,0.07306002174625473,True,squat\squat_1700061.jpg,squat
+nose,9.568083762894494,0.07330127842514203,True,squat\squat_2000051.jpg,squat
+r_shoulder,11.643202211423578,0.08919880178824895,True,squat\squat_2000051.jpg,squat
+l_shoulder,38.73611035018319,0.29675810541052783,False,squat\squat_2000051.jpg,squat
+r_elbow,7.214878838624714,0.05527332908650324,True,squat\squat_2000051.jpg,squat
+l_elbow,,,,squat\squat_2000051.jpg,squat
+r_wrist,10.331100463554435,0.07914676441837792,True,squat\squat_2000051.jpg,squat
+l_wrist,,,,squat\squat_2000051.jpg,squat
+r_hip,9.746016739545139,0.07466442646875171,True,squat\squat_2000051.jpg,squat
+l_hip,6.861113491154894,0.052563125781990384,True,squat\squat_2000051.jpg,squat
+r_knee,8.553192234245053,0.06552617440678572,True,squat\squat_2000051.jpg,squat
+l_knee,15.241881226948875,0.1167683527053007,True,squat\squat_2000051.jpg,squat
+r_ankle,,,,squat\squat_2000051.jpg,squat
+l_ankle,,,,squat\squat_2000051.jpg,squat
+nose,,,,squat\squat_2900021.jpg,squat
+r_shoulder,11.933129521488652,0.16179110567059612,True,squat\squat_2900021.jpg,squat
+l_shoulder,8.152838662983578,0.11053737238524047,True,squat\squat_2900021.jpg,squat
+r_elbow,,,,squat\squat_2900021.jpg,squat
+l_elbow,10.767146966988662,0.1459825446099393,True,squat\squat_2900021.jpg,squat
+r_wrist,,,,squat\squat_2900021.jpg,squat
+l_wrist,,,,squat\squat_2900021.jpg,squat
+r_hip,11.05459220923443,0.1498797690118826,True,squat\squat_2900021.jpg,squat
+l_hip,14.542559385826104,0.19717013530073482,True,squat\squat_2900021.jpg,squat
+r_knee,8.825521736968884,0.11965770734096139,True,squat\squat_2900021.jpg,squat
+l_knee,16.368920044561413,0.2219321987475415,False,squat\squat_2900021.jpg,squat
+r_ankle,10.117158075308085,0.13716990067866933,True,squat\squat_2900021.jpg,squat
+l_ankle,6.159972164667051,0.08351779854789078,True,squat\squat_2900021.jpg,squat
